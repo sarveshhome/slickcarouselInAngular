@@ -4,12 +4,12 @@ slick Slider npm
 
 `npm i slick-carousel`
 
-
 `npm install bootstrap --save`
 
 `npm install jquery --save`
 
 `npm install popper.js --save`
+
 
 
 src/style.css
