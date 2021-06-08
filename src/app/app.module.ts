@@ -4,7 +4,7 @@ import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
 import { HelloComponent } from './hello.component';
-import { ImagesliderslickComponent } from '../imagesliderslick/imagesliderslick.component';
+import { ImagesliderslickComponent } from './imagesliderslick/imagesliderslick.component';
 
 @NgModule({
   imports: [BrowserModule, FormsModule],
